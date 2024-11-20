@@ -2,6 +2,7 @@
 
 ## Team Name and Members
 Team 3
+
 Cooper Waters @coopw07
 
 David Melonakos @dmelonakos

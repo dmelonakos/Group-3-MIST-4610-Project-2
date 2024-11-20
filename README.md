@@ -3,15 +3,15 @@
 ## Team Name and Members
 Team 3
 
-Cooper Waters @coopw07
+Cooper Waters [@coopw07](https://github.com/coopw07)
 
-David Melonakos @dmelonakos
+David Melonakos [@dmelonakos](https://github.com/dmelonakos)
 
-Noah Hirschfield @nbh14975
+Noah Hirschfield [@nbh14975](https://github.com/nbh14975)
 
-Jacob Weiszer @JacobWeisz
+Jacob Weiszer [@JacobWeisz](https://github.com/JacobWeisz)
 
-Coleman Willis @Chipolman10
+Coleman Willis [@Chipolman10](https://github.com/Chipolman10)
 ## Dataset Information
 
 ## Question 1 and Analysis

@@ -2,6 +2,10 @@
 
 ## Team Name and Members
 
-### Question 1
+## Dataset Information
+
+## Question 1 and Analysis
 <img width="890" alt="image" src="https://github.com/user-attachments/assets/bac037ac-2d42-4662-a3fb-fbb07c23c802">
+
+## Question 2 and Analysis
 

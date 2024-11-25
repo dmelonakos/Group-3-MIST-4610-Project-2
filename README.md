@@ -15,13 +15,13 @@ Coleman Willis [@Chipolman10](https://github.com/Chipolman10)
 ## Dataset Description
 This dataset contains information about trips over the past five years including trip distance, population staying home vs. population not staying home, the trip date, origin state code, longitude and latitude. It was obtained by the Bureau of Transportation Statistics through collecting mobile device data.
 
-## Why this Dataset?
+### Why this Dataset?
 Lot of practical uses like figuring out which states have higher numbers of trips or higher distance of trips compared to others. The dataset also has a lot of quantitative data that we can work with to help answer questions.
 
-## Data Applications
+### Data Applications
 We can use this dataset to look at trends about which states have the highest total number of trips per capita to determine its cause and correlation to the number of people moving into the state. It can be used to identify what areas should be targeted for emissions reduction. It can also inform car manufacturers who specialize in high fuel efficiency vehicles about where they can position their stores in regions that see frequent long distance travel.
 
-## Data Fields
+### Data Fields
 ![Pic 1](https://github.com/user-attachments/assets/d4f61faf-926a-447c-b91e-4926187fbe54)
 ![Pic 2](https://github.com/user-attachments/assets/c36da6b3-4477-4f0d-9262-5c3b799e5e7b)
 

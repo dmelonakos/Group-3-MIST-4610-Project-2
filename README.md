@@ -15,6 +15,9 @@ Coleman Willis [@Chipolman10](https://github.com/Chipolman10)
 ## Dataset Description
 
 
+## Manipulations to the Dataset
+
+
 ## Question 1 and Why We Asked It
 ### Question 1
 

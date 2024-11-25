@@ -25,6 +25,8 @@ We can use this dataset to look at trends about which states have the highest to
 ![Pic 1](https://github.com/user-attachments/assets/d4f61faf-926a-447c-b91e-4926187fbe54)
 ![Pic 2](https://github.com/user-attachments/assets/c36da6b3-4477-4f0d-9262-5c3b799e5e7b)
 
+Data is collected everyday and is broken down by counties which are designated by the state they are within. We can assume "Population Staying at Home" and "Population Not Staying at Home" when added together equal the total population used in this dataset.
+
 ## Manipulations to the Dataset
 <img width="910" alt="Screenshot 2024-11-25 at 4 09 36 PM" src="https://github.com/user-attachments/assets/17255adb-c72b-47a2-a159-0547de475ddb">
 

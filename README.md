@@ -33,7 +33,7 @@ We created one calculated field for our data analysis. This field finds the numb
 ### Question 2
 How has the average number of trips > 100 miles per capita daily been changing in different states over the past 5 years?
 ### Reasoning
-
+We wanted to know how the percentage of people taking long distance trips was changing over time in different states and if there was a significant relationship between time and that value. If we knew which states were likely to have an increase in long distance travel, we could advertise fuel efficient vehicles in those areas, invest in real estate for lodging, invest in more efficient public long distance transportation (trains), and make any number of other investment/policy decisions.
 ## Question 2 Analysis and Results
 
 

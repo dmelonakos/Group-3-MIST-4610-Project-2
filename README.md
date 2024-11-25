@@ -26,7 +26,7 @@ Coleman Willis [@Chipolman10](https://github.com/Chipolman10)
 
 ## Question 2 and Why We Asked it
 ### Question 2
-
+How has the average number of trips > 100 miles per capita daily been changing in different states over the past 5 years?
 ### Reasoning
 
 ## Question 2 Analysis and Results

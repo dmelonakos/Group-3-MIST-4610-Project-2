@@ -22,7 +22,8 @@ Lot of practical uses like figuring out which states have higher numbers of trip
 We can use this dataset to look at trends about which states have the highest total number of trips per capita to determine its cause and correlation to the number of people moving into the state. It can be used to identify what areas should be targeted for emissions reduction. It can also inform car manufacturers who specialize in high fuel efficiency vehicles about where they can position their stores in regions that see frequent long distance travel.
 
 ## Data Fields
-
+![Pic 1](https://github.com/user-attachments/assets/d4f61faf-926a-447c-b91e-4926187fbe54)
+![Pic 2](https://github.com/user-attachments/assets/c36da6b3-4477-4f0d-9262-5c3b799e5e7b)
 
 ## Manipulations to the Dataset
 <img width="910" alt="Screenshot 2024-11-25 at 4 09 36 PM" src="https://github.com/user-attachments/assets/17255adb-c72b-47a2-a159-0547de475ddb">

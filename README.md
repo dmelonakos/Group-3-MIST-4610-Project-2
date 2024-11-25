@@ -34,10 +34,10 @@ We created one calculated field for our data analysis. This field finds the numb
 
 ## Question 1 and Why We Asked It
 ### Question 1
-
+Which counties in Arizona have the most trips over 100 miles per capita on any given day?
 
 ### Reasoning
-
+We wanted to find how the percentage of people taking long distance trips varied between different counties in Arizona. We picked Arizona as the state to analyze for a couple of reasons, one being because it is easy to analyze from a viewer perspective as it does not have many counties to begin with. The other reason we chose Arizona is because it is one of the fastest growing states by population in the United States, so we figured it would be interesting and pratical to analyze.
 ## Question 1 Results and Analysis
 
 

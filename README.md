@@ -44,12 +44,12 @@ This graph shows a significant positive relationship between each consecutive mo
 ![Gp2 gadata](https://github.com/user-attachments/assets/72fe5167-ba8c-4aaf-be06-301406fd9c7f)
 R-Squared: 0.203504<br/>
 P-Value:   0.0002975<br/>
-This graph shows a significant positive relationship between each consecutive month over time and the percentage of Arizona residents traveling farther that 100 miles on a daily basis. With an R-Squared of about 0.57, this means that about 57% of the variation in the percentage (y-axis values) value can be explained by the month and year (x-axis values). This ultimately means that, because there is a significant relationship between the two variables, we can expect that the percentage of Arizona residents traveling farther that 100 miles on a daily basis is likely to continue to increase, at least in the short term. 
+This graph shows a significant positive relationship between each consecutive month over time and the percentage of Georgia residents traveling farther that 100 miles on a daily basis. With an R-Squared of about 0.20, this means that about 20% of the variation in the percentage (y-axis values) value can be explained by the month and year (x-axis values). This ultimately means that, because there is a significant relationship between the two variables, we can expect that the percentage of Georgia residents traveling farther that 100 miles on a daily basis is likely to continue to increase, at least in the short term, though we are less confident in this trend for Georgia than we are for Arizona. 
 ### New York
 ![gp2 nydata](https://github.com/user-attachments/assets/25512a3d-3a92-49e2-a628-de8795d410f6)
 R-Squared: 0.0057639<br/>
 P-Value:   0.564251<br/>
-This graph shows a significant positive relationship between each consecutive month over time and the percentage of Arizona residents traveling farther that 100 miles on a daily basis. With an R-Squared of about 0.57, this means that about 57% of the variation in the percentage (y-axis values) value can be explained by the month and year (x-axis values). This ultimately means that, because there is a significant relationship between the two variables, we can expect that the percentage of Arizona residents traveling farther that 100 miles on a daily basis is likely to continue to increase, at least in the short term. 
+This graph shows an insignificant negative relationship between each consecutive month over time and the percentage of New York residents traveling farther that 100 miles on a daily basis. With an R-Squared of about 0.00578, we can say that about .6% of the variation in the percentage (y-axis values) value can be explained by the month and year (x-axis values). This ultimately means that, because there is an insignificant relationship between the two variables, we cannot reasonably predict any changes in the percentage of New York residents traveling farther that 100 miles on a daily basis.
 
 ### Analysis
 

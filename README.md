@@ -37,7 +37,7 @@ We wanted to know how the percentage of people taking long distance trips was ch
 ## Question 2 Results and Analysis
 ### Arizona
 ![Gp2 azdata](https://github.com/user-attachments/assets/2fb3b06d-21e8-4ab5-85b7-a55f42cfe4e8)
-R-Squared: 0.568899
+R-Squared: 0.568899<br/>
 P-Value:   < 0.0001
 
 ### Georgia

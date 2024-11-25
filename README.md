@@ -64,6 +64,7 @@ This graph shows an insignificant negative relationship between each consecutive
 ### Analysis
 
 ## Conclusion
+While this data set includes trips from many modes of transportation and does not decipher between them, we can infer from the results of question 1 that many are by car. When analyzing breakdown of longer trips by county, it becomes apparent that the rural counties tend to have the highest trips per capita which accounts for having to travel long distances to urban areas for work, appointments, etc. As we saw through question two, there seems to be a correlation between the states that are seeing the highest avg number of trips over 100 miles and the states with the largest growing numbers of residents and future research can help support this claim. As the U.S population grows, companies expand, and turn to more hybrid formats, more people will move to the suburbs and rural counties. It’s important for car companies to analyze where there will be high demand for fuel-efficient cars, governments to be aware of where infrastructure needs improvement, and marketers to determine what types of people are traveling out of necessity vs. for leisure. 
 
 ## Tableau Packaged Workbook
 File was too large to submit through github (>25MB). We submitted the twbx in ELC.

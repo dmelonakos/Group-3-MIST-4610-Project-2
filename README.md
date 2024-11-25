@@ -12,10 +12,20 @@ Noah Hirschfield [@nbh14975](https://github.com/nbh14975)
 Jacob Weiszer [@JacobWeisz](https://github.com/JacobWeisz)
 
 Coleman Willis [@Chipolman10](https://github.com/Chipolman10)
-## Dataset Information
+## Dataset Description
 
-## Question 1 and Analysis
-<img width="890" alt="image" src="https://github.com/user-attachments/assets/bac037ac-2d42-4662-a3fb-fbb07c23c802">
 
-## Question 2 and Analysis
+## Question 1 and Why We Asked It
+
+
+## Question 1 Analysis and Results
+
+
+## Question 2 and Why We Asked it
+
+
+## Question 2 Analysis and Results
+
+
+## Tableau Packaged Workbook
 

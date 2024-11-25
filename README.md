@@ -16,13 +16,18 @@ Coleman Willis [@Chipolman10](https://github.com/Chipolman10)
 
 
 ## Question 1 and Why We Asked It
+### Question 1
 
+
+### Reasoning
 
 ## Question 1 Analysis and Results
 
 
 ## Question 2 and Why We Asked it
+### Question 2
 
+### Reasoning
 
 ## Question 2 Analysis and Results
 

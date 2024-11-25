@@ -38,18 +38,18 @@ We wanted to know how the percentage of people taking long distance trips was ch
 ### Arizona
 ![Gp2 azdata](https://github.com/user-attachments/assets/2fb3b06d-21e8-4ab5-85b7-a55f42cfe4e8)
 R-Squared: 0.568899<br/>
-P-Value:   < 0.0001
-
+P-Value:   < 0.0001<br/>
+This graph shows a significant positive relationship between each consecutive month over time and the percentage of Arizona residents traveling farther that 100 miles on a daily basis. With an R-Squared of about 0.57, this means that about 57% of the variation in the percentage (y-axis values) value can be explained by the month and year (x-axis values). This ultimately means that, because there is a significant relationship between the two variables, we can expect that the percentage of Arizona residents traveling farther that 100 miles on a daily basis is likely to continue to increase, at least in the short term. 
 ### Georgia
 ![Gp2 gadata](https://github.com/user-attachments/assets/72fe5167-ba8c-4aaf-be06-301406fd9c7f)
-R-Squared: 0.203504
-P-Value:   0.0002975
-
+R-Squared: 0.203504<br/>
+P-Value:   0.0002975<br/>
+This graph shows a significant positive relationship between each consecutive month over time and the percentage of Arizona residents traveling farther that 100 miles on a daily basis. With an R-Squared of about 0.57, this means that about 57% of the variation in the percentage (y-axis values) value can be explained by the month and year (x-axis values). This ultimately means that, because there is a significant relationship between the two variables, we can expect that the percentage of Arizona residents traveling farther that 100 miles on a daily basis is likely to continue to increase, at least in the short term. 
 ### New York
 ![gp2 nydata](https://github.com/user-attachments/assets/25512a3d-3a92-49e2-a628-de8795d410f6)
-R-Squared: 0.0057639
-P-Value:   0.564251
-
+R-Squared: 0.0057639<br/>
+P-Value:   0.564251<br/>
+This graph shows a significant positive relationship between each consecutive month over time and the percentage of Arizona residents traveling farther that 100 miles on a daily basis. With an R-Squared of about 0.57, this means that about 57% of the variation in the percentage (y-axis values) value can be explained by the month and year (x-axis values). This ultimately means that, because there is a significant relationship between the two variables, we can expect that the percentage of Arizona residents traveling farther that 100 miles on a daily basis is likely to continue to increase, at least in the short term. 
 
 ### Analysis
 
